@@ -1,0 +1,6 @@
+# Project exclude paths
+/base-config/target/
+/base-eureka/target/
+# Project exclude paths
+/base-hystrix-dashborad/target/
+/base-turbine/target/
